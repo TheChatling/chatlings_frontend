@@ -21,7 +21,7 @@ const Hero = () => {
       </div>
 
       <div className="w-[80%] min-w-[500px] mx-auto text-center">
-        <h1 className="text-3xl font-bold md:text-5xl lg:text-6xl lg:leading-snug">
+        <h1 className="text-3xl font-bold md:text-5xl lg:text-6xl lg:leading-snug text-gray-100">
           Chat with ease and effortlessly connect with others for free
         </h1>
         <p className="text-gray-400 mt-3 mb-5">
