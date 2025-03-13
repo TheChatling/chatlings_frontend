@@ -58,7 +58,7 @@ const Chatbox = () => {
     }
   };
 
-  // handling receiving messages and updates
+  // handling receiving messages and updates functions for useEffect
   const handleReceiveMessage = useCallback(
     (room: string, sender: string, date: number, message: string) => {
       if (!user) return;
